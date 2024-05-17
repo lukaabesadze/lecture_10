@@ -1,0 +1,11 @@
+
+
+@media(max-width:800px){
+  
+    .myimage-1{
+        display: none;
+    }
+    .myli{
+        display: none;
+    }
+}

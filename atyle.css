@@ -19,8 +19,14 @@ padding-left: 50px;
 
 }
 .myli{
-    margin-left: 1100px;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 250px;
+    background-color: aqua;
+    height: 70px;
 }
+
+
 .image2{      
     margin-top: 31px;
     position: relative;
@@ -38,20 +44,13 @@ padding-left: 50px;
     left: 350px;
 
 }
-.myp{
-    display: flex;
-   color:#fff;
-   font-family: Helvetica;
-   font-size: 19px;
-   font-style: normal;
-   font-weight: 400;
-   line-height: normal;
-   position: absolute;
-   top: 440px;
-   right:900px;
-   
-
+.myimage-1{
+    font-size: 32px;
+    display: none;
+    
 }
+
+
 .container{
     width: 225px;
     height: 115px;
