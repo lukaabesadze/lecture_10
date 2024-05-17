@@ -1,0 +1,28 @@
+.image1{ 
+    width: 33px;
+    height: 42px;
+    padding-left: 99px;
+    padding-top: 24px;
+    display:block;   
+}
+li{
+ display: flex;
+justify-content: flex-end;
+color: #636060;
+font-family: Helvetica;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display:inline-block;
+}
+
+.myli{
+    display: flex; 
+    justify-content: flex-end;
+    margin-right: 78px;  
+}
+.fa-bars{
+    font-size: 32px;
+}
+
